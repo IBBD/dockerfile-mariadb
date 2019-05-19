@@ -9,7 +9,7 @@
 #
 
 # Pull base image.
-FROM mariadb:10.2.16
+FROM mariadb:10.2
 
 MAINTAINER Alex Cai "cyy0523xc@gmail.com"
 
